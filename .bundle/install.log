@@ -1,0 +1,24 @@
+# Logfile created on 2014-07-01 22:26:29 +0100 by logger.rb/41954
+I, [2014-07-01T22:26:29.072510 #4260]  INFO -- : 0:  i18n (0.6.9) from /home/pvinchon/.gem/ruby/specifications/i18n-0.6.9.gemspec
+I, [2014-07-01T22:26:29.072924 #4260]  INFO -- : 0:  json (1.8.1) from /home/pvinchon/.gem/ruby/specifications/json-1.8.1.gemspec
+I, [2014-07-01T22:26:36.788015 #4260]  INFO -- : 0:  minitest (5.3.5) from /home/pvinchon/.gem/ruby/specifications/minitest-5.3.5.gemspec
+I, [2014-07-01T22:26:36.789518 #4260]  INFO -- : 0:  thread_safe (0.3.4) from /home/pvinchon/.gem/ruby/specifications/thread_safe-0.3.4.gemspec
+I, [2014-07-01T22:26:36.790497 #4260]  INFO -- : 0:  tzinfo (1.2.1) from /home/pvinchon/.gem/ruby/specifications/tzinfo-1.2.1.gemspec
+I, [2014-07-01T22:26:36.791604 #4260]  INFO -- : 0:  activesupport (4.1.2) from /home/pvinchon/.gem/ruby/specifications/activesupport-4.1.2.gemspec
+I, [2014-07-01T22:26:40.864945 #4260]  INFO -- : 0:  builder (3.2.2) from /home/pvinchon/.gem/ruby/specifications/builder-3.2.2.gemspec
+I, [2014-07-01T22:26:40.866269 #4260]  INFO -- : 0:  activemodel (4.1.2) from /home/pvinchon/.gem/ruby/specifications/activemodel-4.1.2.gemspec
+I, [2014-07-01T22:26:40.867296 #4260]  INFO -- : 0:  arel (5.0.1.20140414130214) from /home/pvinchon/.gem/ruby/specifications/arel-5.0.1.20140414130214.gemspec
+I, [2014-07-01T22:26:40.868290 #4260]  INFO -- : 0:  activerecord (4.1.2) from /home/pvinchon/.gem/ruby/specifications/activerecord-4.1.2.gemspec
+I, [2014-07-01T22:26:40.869253 #4260]  INFO -- : 0:  addressable (2.3.6) from /home/pvinchon/.gem/ruby/specifications/addressable-2.3.6.gemspec
+I, [2014-07-01T22:26:40.870207 #4260]  INFO -- : 0:  buftok (0.2.0) from /home/pvinchon/.gem/ruby/specifications/buftok-0.2.0.gemspec
+I, [2014-07-01T22:26:40.871254 #4260]  INFO -- : 0:  equalizer (0.0.9) from /home/pvinchon/.gem/ruby/specifications/equalizer-0.0.9.gemspec
+I, [2014-07-01T22:26:40.872207 #4260]  INFO -- : 0:  multipart-post (2.0.0) from /home/pvinchon/.gem/ruby/specifications/multipart-post-2.0.0.gemspec
+I, [2014-07-01T22:26:40.873144 #4260]  INFO -- : 0:  faraday (0.9.0) from /home/pvinchon/.gem/ruby/specifications/faraday-0.9.0.gemspec
+I, [2014-07-01T22:26:40.874200 #4260]  INFO -- : 0:  http_parser.rb (0.6.0) from /home/pvinchon/.gem/ruby/specifications/http_parser.rb-0.6.0.gemspec
+I, [2014-07-01T22:26:44.952816 #4260]  INFO -- : 0:  http (0.6.1) from /home/pvinchon/.gem/ruby/specifications/http-0.6.1.gemspec
+I, [2014-07-01T22:26:44.954213 #4260]  INFO -- : 0:  memoizable (0.4.2) from /home/pvinchon/.gem/ruby/specifications/memoizable-0.4.2.gemspec
+I, [2014-07-01T22:26:44.955184 #4260]  INFO -- : 0:  naught (1.0.0) from /home/pvinchon/.gem/ruby/specifications/naught-1.0.0.gemspec
+I, [2014-07-01T22:26:44.956127 #4260]  INFO -- : 0:  simple_oauth (0.2.0) from /home/pvinchon/.gem/ruby/specifications/simple_oauth-0.2.0.gemspec
+I, [2014-07-01T22:26:44.957130 #4260]  INFO -- : 0:  sqlite3 (1.3.9) from /home/pvinchon/.gem/ruby/specifications/sqlite3-1.3.9.gemspec
+I, [2014-07-01T22:26:57.141260 #4260]  INFO -- : 0:  twitter (5.11.0) from /home/pvinchon/.gem/ruby/specifications/twitter-5.11.0.gemspec
+I, [2014-07-01T22:26:57.142529 #4260]  INFO -- : 0:  bundler (1.5.1) from /home/pvinchon/.gem/ruby/specifications/bundler-1.5.1.gemspec
