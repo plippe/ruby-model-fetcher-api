@@ -1,0 +1,6 @@
+*.gem
+*.lock
+*.sqlite3
+*.sqlite3-journal
+
+.bundle/
