@@ -2,16 +2,10 @@
 
 ### The environment
  - Build and install the models gem.
-
-
  - Create a database with the content of the resources/create.sql file.
  - Update the resources/database.yml file to point to your database.
-
-
  - Create an application an twitter to receive api keys.
  - Update the resources/twitter.yml file with the keys just received.
-
-
  - Run bundle install to download the dependencies.
 
 ### Running the application
