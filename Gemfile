@@ -8,3 +8,6 @@ gem "sqlite3", "= 1.3.9"
 
 # Use twitter gem for data fetcher
 gem "twitter", "= 5.11.0"
+
+# Use sinatra gem for the api
+gem "sinatra", "= 1.3.6"
